@@ -3,7 +3,6 @@
 ## **Here's a quick resume about what each file on this repository do :** 
 
 ### **First Test**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 **Question 1 (2 points): What are the advantages of working with Object-Oriented Programming (OOP)? Justify your answer by presenting the main differences between OOP and Structured Programming.**
 **Answer:**
 *Object-Oriented Programming is advantageous compared to Structured Programming because it allows us to work with distinct types and classes for various uses.* 
@@ -87,10 +86,7 @@ It would be necessary to create a logic where the Engine possesses a car, which 
 *Power of the engine of car2: 200.0*
 *There was a prior assignment of the powers separately. However, when doing "carro2.motor = carro1.motor;", both car2 and car1 point to the same memory reference, so any alteration in one of the objects results in a change in both. Therefore, both powers are equal to 200.0.*
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 ### **Second Test**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 **The majority of the questions were in-code related, so the following questions will be about the non-code related questions!
 1)
 a- (2 points) - Identify and present the elements that characterize inheritance and polymorphism;**
@@ -145,10 +141,7 @@ Override the getDescricao method to return the description passed in the constru
 This array/list should be called carrinho, simulating the shopping cart of a customer's varied products in an e-commerce setting. 
 Insert several mice and books into this carrinho and then call the getDescricao method of all the objects present in the array/list so that the user of the cart knows the information of the products in their cart.**
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 ### **Last Test**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 **a) (6 points) Implement the diagram represented above in Java. Use your knowledge of OOP to ensure that the implementation is as faithful to the represented diagram as possible. To do this, consider:
   Enhance your implementation with the pillars of abstraction, encapsulation, inheritance, and polymorphism, which should be identified and added;
   When withdrawing, a Physical Account should deduct 2% of the amount to be withdrawn, and a Legal Account should deduct 4% of the amount to be withdrawn;
@@ -192,4 +185,4 @@ contaJ: Balance 204
 (T) - In a static class, all members must be static.
 (F) - An interface defines a series of methods and their implementations.
 (F) - We should implement an interface through interfaces.**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
