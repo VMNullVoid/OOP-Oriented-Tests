@@ -164,25 +164,25 @@ contaA: Balance 0
 contaF: Balance 0
 contaJ: Balance 204
 
-**Question 3 (10 points): Mark V for true statements or F for false statements.
-(F) - A class must always contain attributes and methods.
-(F) - Attributes cannot be public.
-(F) - Methods must be private.
-(T) - A subclass can also be a superclass.
-(T) - We should inherit a class using extends.
-(T) - We should create polymorphism using super.
-(F) - Overload polymorphism allows us to create methods with the same signature.
-(F) - We can override a method that is not being inherited.
-(T) - An abstract class cannot be instantiated.
-(F) - A static class can be instantiated.
-(T) - An abstract class can be inherited.
-(T) - A static class cannot be inherited.
-(T) - An abstract class uses the abstract modifier.
-(T) - A static class uses the static modifier.
-(F) - An abstract class will always be a superclass.
-(F) - In an abstract class, all methods must be abstract.
-(F) - A single abstract method can exist in a non-abstract class.
-(T) - In a static class, all members must be static.
-(F) - An interface defines a series of methods and their implementations.
-(F) - We should implement an interface through interfaces.**
+**Question 3 (10 points): Mark V for true statements or F for false statements. 
+ (F) - A class must always contain attributes and methods.
+ (F) - Attributes cannot be public.
+ (F) - Methods must be private.
+ (T) - A subclass can also be a superclass.
+ (T) - We should inherit a class using extends.
+ (T) - We should create polymorphism using super.
+ (F) - Overload polymorphism allows us to create methods with the same signature.
+ (F) - We can override a method that is not being inherited.
+ (T) - An abstract class cannot be instantiated.
+ (F) - A static class can be instantiated.
+ (T) - An abstract class can be inherited.
+ (T) - A static class cannot be inherited.
+ (T) - An abstract class uses the abstract modifier.
+ (T) - A static class uses the static modifier.
+ (F) - An abstract class will always be a superclass.
+ (F) - In an abstract class, all methods must be abstract.
+ (F) - A single abstract method can exist in a non-abstract class.
+ (T) - In a static class, all members must be static.
+ (F) - An interface defines a series of methods and their implementations.
+ (F) - We should implement an interface through interfaces.**
 
