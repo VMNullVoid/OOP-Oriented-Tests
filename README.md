@@ -1,10 +1,10 @@
 # **This repository contains basically all of my exams from College about Object-Oriented-Programming, using JAVA.**
 ## ***"But what do these programs do? what problems do they solve?"***
-## **Here's a quick resume about what each file on this repository do : ** 
+## **Here's a quick resume about what each file on this repository do :** 
 
 ### **First Test**
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-***Question 1 (2 points): What are the advantages of working with Object-Oriented Programming (OOP)? Justify your answer by presenting the main differences between OOP and Structured Programming.***
+**Question 1 (2 points): What are the advantages of working with Object-Oriented Programming (OOP)? Justify your answer by presenting the main differences between OOP and Structured Programming.**
 **Answer:**
 *Object-Oriented Programming is advantageous compared to Structured Programming because it allows us to work with distinct types and classes for various uses.* 
 *We can customize how we solve proposed problems, developing applications more efficiently than when implementing Structured Programming.* 
@@ -16,12 +16,12 @@
 *The created Classes can contain Attributes and Methods for interaction between the class and the program.*
 *Once "called" in the main through the creation of an Object of the Class, which takes the Constructor method with all the base attributes of the Class, we can instantiate it,allocating the necessary space for each variable in memory, and interact with the entire object.*
 
-***Question 3 (2 points): Define and explain the Abstraction pillar of Object-Oriented Programming.
-   When thinking about high-level abstraction, how would you define the classes for the types House, Animal, and Patient?***
+**Question 3 (2 points): Define and explain the Abstraction pillar of Object-Oriented Programming.
+   When thinking about high-level abstraction, how would you define the classes for the types House, Animal, and Patient?**
 **Answer:**
 *The concept of Abstraction, which encompasses Object-Oriented Programming, consists of "abstracting" a real-world object to identify its attributes and functions and implement them in code. The House class can be defined with attributes such as size, number of floors, doors, windows, rooms, wall color, and anything relevant to the solution. The Animal class can be defined by breed, color, size, sex, age, habitat, and so on. Finally, the Patient class can take into account the name, social security number, ID, date of birth, blood type, medical history, vaccination card, etc.*
 
-***Question 4 (9 points): Regarding the class diagram below, answer the following:***
+**Question 4 (9 points): Regarding the class diagram below, answer the following:**
 **c) (1 point) What is the relationship between Car and Accessory? And the relationship between Car and Engine? Explain both relationships.**
 **Answer:**
 *A Car necessarily has an engine, while it has an accessory but does not depend on it. The primary difference lies in the types of dependency one class has on another when instantiating objects. In the case of the engine, the car is entirely dependent on it to be functional, being a fundamental characteristic of the car, while the accessory is a bonus, which may or may not be present in the car. (I forgot the names of the relationships, but one is "optional" and the other is "mandatory.")*
